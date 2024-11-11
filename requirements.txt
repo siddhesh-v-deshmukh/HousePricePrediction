@@ -1,0 +1,6 @@
+Scikit-learn
+numpy
+pandas
+Streamlit
+Pickle
+xgboost
